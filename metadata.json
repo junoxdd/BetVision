@@ -1,0 +1,5 @@
+{
+  "name": "BetVision AI",
+  "description": "An AI-powered dashboard that provides real-time betting suggestions by analyzing live odds using the Gemini API.",
+  "requestFramePermissions": []
+}
